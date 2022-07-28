@@ -1,7 +1,7 @@
 # CSE-122-FALL-2022-49-08
-For cse lab
+This is an oop lab repository 
 
-NAME:Asmaul Hossna 
+NAME:Asmaul Hossna
 
 ID:21225103351
 
